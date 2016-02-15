@@ -1,6 +1,6 @@
 # google-hacking
 ###Python script for common pt google hack
-1. Search for Directoruy Listings
+1. Search for Directory Listings
 2. Search for exposed conf files
 3. Search for exposed db files
 4. Search for exposed log files
